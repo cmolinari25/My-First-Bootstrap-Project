@@ -42,3 +42,17 @@ header h2 {
     padding: 10px;
 }
 
+.carosel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carosel {
+    border: solid #5637DD;
+}
+
+#carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+}
